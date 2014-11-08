@@ -1,16 +1,16 @@
 The technique used in the presentation to create a map starts with a Standard Drupal installation, then installs and enables the following modules:
 
-ctools
-entity
-views
-views_ui
-addressfield
-ctools
-geocoder
-geofield
-geophp
-leaflet
-libraries
+- ctools
+- entity
+- views
+- views_ui
+- addressfield
+- ctools
+- geocoder
+- geofield
+- geophp
+- leaflet
+- libraries
 
 Download the leaflet javascript library from http://leafletjs.com/download.html and unzip it. Rename the folder "leaflet" (removing the version number) and place it in:
 sites/all/libraries/
