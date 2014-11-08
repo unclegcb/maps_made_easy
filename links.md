@@ -1,0 +1,6 @@
+[Leaflet Javascript library](http://leafletjs.com/)
+[Drupal Leaflet Module](http://www.drupal.org/project/leaflet)
+[Leaflet Commit describing the layer-switching functionality](http://cgit.drupalcode.org/leaflet/commit/?id=6f7d6e3)
+[Copy of the site built during the session](http://live-badmap.pantheon.io/)
+[ThinkShout's blog](http://www.thinkshout.com/blog)
+[Follow Gabe on Twitter](https://twitter.com/uncle_gcb)
